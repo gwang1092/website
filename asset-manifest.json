@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.e67239e4.css",
-    "main.js": "/website/static/js/main.f854a98a.js",
+    "main.css": "/website/static/css/main.b1de7531.css",
+    "main.js": "/website/static/js/main.283359ee.js",
     "static/js/453.b03e3c98.chunk.js": "/website/static/js/453.b03e3c98.chunk.js",
     "static/media/B4LA.mp4": "/website/static/media/B4LA.ef6d6cf6abe84e42115d.mp4",
     "static/media/B4LA_trimmed.mp4": "/website/static/media/B4LA_trimmed.79e181d4c4aefb15fa7e.mp4",
     "static/media/sac_fullvid.mp4": "/website/static/media/sac_fullvid.7f5b6794504c68e07095.mp4",
-    "static/media/bot.png": "/website/static/media/bot.4802d0a22932cb7751b5.png",
+    "static/media/Books.JPG": "/website/static/media/Books.82526117cc1c47eac07c.JPG",
     "static/media/sac_teamphoto.png": "/website/static/media/sac_teamphoto.b8fb4e4deba4cf34232b.png",
     "static/media/group2.png": "/website/static/media/group2.a7f1e5f636c5163395ca.png",
     "static/media/fight.png": "/website/static/media/fight.e1918d38ceb193135cba.png",
@@ -26,12 +26,12 @@
     "static/media/left.png": "/website/static/media/left.ac2bcee1edd3ae767ba7.png",
     "static/media/instagram.png": "/website/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/website/index.html",
-    "main.e67239e4.css.map": "/website/static/css/main.e67239e4.css.map",
-    "main.f854a98a.js.map": "/website/static/js/main.f854a98a.js.map",
+    "main.b1de7531.css.map": "/website/static/css/main.b1de7531.css.map",
+    "main.283359ee.js.map": "/website/static/js/main.283359ee.js.map",
     "453.b03e3c98.chunk.js.map": "/website/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e67239e4.css",
-    "static/js/main.f854a98a.js"
+    "static/css/main.b1de7531.css",
+    "static/js/main.283359ee.js"
   ]
 }
