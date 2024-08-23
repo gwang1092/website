@@ -45,9 +45,9 @@
 .peopleLists {
     display: flex;
     justify-content: left;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     width: 45vw;
-    max-width: 40;
+    max-width: 40rem;
     margin: 1rem 2rem;
 }
 
@@ -55,8 +55,8 @@
     text-align: left;
     position: relative; 
     width: 13rem;
-    max-width: 25vw;
-    margin-right: 5rem;
+    max-width: 30vw;
+    margin-right: 3rem;
 }
 
 .peopleImg {
