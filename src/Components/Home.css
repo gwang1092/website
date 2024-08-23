@@ -58,6 +58,7 @@
 }
 .btn:hover {
     cursor: pointer;
+    background-color: rgb(240, 240, 240);
 }
 
 /*mobile responsiveness for device width*/
