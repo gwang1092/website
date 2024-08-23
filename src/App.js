@@ -19,10 +19,11 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
 
       <Routes>
         <Route exact path="/" element=
@@ -62,7 +63,7 @@ function App() {
 
 
       <Footer></Footer>
-    </Router>
+    </HashRouter>
   );
 }
 
