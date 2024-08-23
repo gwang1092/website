@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.e67239e4.css",
+    "main.js": "/website/static/js/main.171939ca.js",
+    "static/js/453.b03e3c98.chunk.js": "/website/static/js/453.b03e3c98.chunk.js",
+    "static/media/B4LA.mp4": "/website/static/media/B4LA.ef6d6cf6abe84e42115d.mp4",
+    "static/media/B4LA_trimmed.mp4": "/website/static/media/B4LA_trimmed.79e181d4c4aefb15fa7e.mp4",
+    "static/media/sac_fullvid.mp4": "/website/static/media/sac_fullvid.7f5b6794504c68e07095.mp4",
+    "static/media/bot.png": "/website/static/media/bot.4802d0a22932cb7751b5.png",
+    "static/media/sac_teamphoto.png": "/website/static/media/sac_teamphoto.b8fb4e4deba4cf34232b.png",
+    "static/media/group2.png": "/website/static/media/group2.a7f1e5f636c5163395ca.png",
+    "static/media/fight.png": "/website/static/media/fight.e1918d38ceb193135cba.png",
+    "static/media/wires.png": "/website/static/media/wires.e195c9946c66d333d77b.png",
+    "static/media/baum.png": "/website/static/media/baum.1fa21831c43bae1fd3f8.png",
+    "static/media/ArcQ.png": "/website/static/media/ArcQ.cd5c7a3ceb0158ebb88b.png",
+    "static/media/repair.png": "/website/static/media/repair.568ce2dbf034df1a20ea.png",
+    "static/media/people.png": "/website/static/media/people.96ae8cea5e97480c2b49.png",
+    "static/media/CAD2.png": "/website/static/media/CAD2.ae94c0f7acf94849e25f.png",
+    "static/media/github2.png": "/website/static/media/github2.2b20112801f0e10cb1ff.png",
+    "static/media/logo.png": "/website/static/media/logo.f39f5e6470a2e890cadd.png",
+    "static/media/trojans.png": "/website/static/media/trojans.7e71d75e2739558c9b81.png",
+    "static/media/group.png": "/website/static/media/group.00b876131cb0e4d8da33.png",
+    "static/media/gears.png": "/website/static/media/gears.72452e7de1bef2a6ad5e.png",
+    "static/media/hLogo.png": "/website/static/media/hLogo.edc68f6b317cf5d00af1.png",
+    "static/media/right.png": "/website/static/media/right.27e98bc0bfdaa1f1392a.png",
+    "static/media/left.png": "/website/static/media/left.ac2bcee1edd3ae767ba7.png",
+    "static/media/instagram.png": "/website/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/website/index.html",
+    "main.e67239e4.css.map": "/website/static/css/main.e67239e4.css.map",
+    "main.171939ca.js.map": "/website/static/js/main.171939ca.js.map",
+    "453.b03e3c98.chunk.js.map": "/website/static/js/453.b03e3c98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67239e4.css",
+    "static/js/main.171939ca.js"
+  ]
+}
